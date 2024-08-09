@@ -1,0 +1,46 @@
+{
+  "todos": [
+    {
+      "id": "23",
+      "title": "Rain walk",
+      "description": "You should do a rain walk on upcoming Sunday in wayanad",
+      "dueDate": "2024-07-29",
+      "completed": false
+    },
+    {
+      "id": "5",
+      "title": "Buy groceries",
+      "description": "Milk, Bread, Cheese, Eggs",
+      "dueDate": "2024-07-15",
+      "completed": true
+    },
+    {
+      "id": "6",
+      "title": "Complete React project",
+      "description": "Finish the task management module",
+      "dueDate": "2024-07-20",
+      "completed": false
+    },
+    {
+      "id": "7",
+      "title": "Read a book",
+      "description": "Read 'The Pragmatic Programmer'",
+      "dueDate": "2024-07-25",
+      "completed": true
+    },
+    {
+      "id": "8",
+      "title": "Exercise",
+      "description": "Go for a run and do strength training",
+      "dueDate": "2024-07-30",
+      "completed": true
+    },
+    {
+      "id": "9",
+      "title": "sfhr",
+      "description": "gfsjrzgf",
+      "dueDate": "2024-07-23",
+      "completed": false
+    }
+  ]
+}
